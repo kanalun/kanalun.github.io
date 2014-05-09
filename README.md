@@ -1,4 +1,4 @@
-kanalun.github.io
+CC'S BLOG
 =================
 
 This is my blog !
